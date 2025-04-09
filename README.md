@@ -1,2 +1,2 @@
-# Bootcamp-Heineken---Intelig-ncia-Artificial-Aplicada-a-Dados-com-Copilot
-Repositório criado para reunir todos os projetos desenvolvidos durante o bootcamp.
+# Bootcamp Heineken
+Este repositório foi criado para armazenar todos os projetos desenvolvidos durante o bootcamp Heineken - Inteligência Artificial Aplicada a Dados com Copilot. Ao longo do bootcamp, estou estudando fundamentos de análise de dados, criação de consultas SQL eficientes, processos de ETL (extração, transformação e carga), automaçao de análise com o Microsoft Copilot, construção de dashboards interativos e aplicação de inteligência artificial na análise de dados. Aqui você encontrará exercícios e projetos que colocam esses conhecimentos em prática.
